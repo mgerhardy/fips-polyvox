@@ -1,0 +1,11 @@
+#
+# fips-polyox
+#
+---
+exports:
+    header-dirs:
+        - polyvox/library/PolyVoxCore/include
+        - polyvox/library/PolyVoxCore/include/PolyVoxCore
+        - polyvox/library/PolyVoxCore/include/PolyVoxCore/Impl
+    modules :
+        polyvox: .
