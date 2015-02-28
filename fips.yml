@@ -4,8 +4,8 @@
 ---
 exports:
     header-dirs:
-        - polyvox/library/PolyVoxCore/include
-        - polyvox/library/PolyVoxCore/include/PolyVoxCore
-        - polyvox/library/PolyVoxCore/include/PolyVoxCore/Impl
+        - polyvox/include
+        - polyvox/include/PolyVoxCore
+        - polyvox/include/PolyVoxCore/Impl
     modules :
         polyvox: .
