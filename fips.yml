@@ -5,7 +5,5 @@
 exports:
     header-dirs:
         - polyvox/include
-        - polyvox/include/PolyVoxCore
-        - polyvox/include/PolyVoxCore/Impl
-    modules :
-        polyvox: .
+        - polyvox/include/PolyVox
+        - polyvox/include/PolyVox/Impl
